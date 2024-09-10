@@ -1,0 +1,12 @@
+dependencies:
+  idf: "^5.3"
+  espressif/esp_websocket_client: "^1.2.3"
+description: ESP32 WebSocket Client
+files:
+  exclude:
+  - .git
+license: MIT
+maintainer: Terrence <terrence@tenclass.com>
+repository: git://github.com/78/esp-websocket.git
+url: https://github.com/78/esp-websocket.git
+version: 1.0.0
